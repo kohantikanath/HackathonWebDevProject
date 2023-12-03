@@ -21,7 +21,7 @@
     display: flex;
   }
   p{
-    font-size: 20px;
+    font-size: 12px;
   }
   .sidebar .who{
     margin: 20px;
@@ -611,9 +611,7 @@ h5{
 #Testimonial1,#p4,#hr4{
     margin-left: 30px;
 }
-#Portfolio1{
-    /*background-color: rgb(245,245,251);*/
-}
+
 .testimonial-message{
     display: flex;
     margin-left: 30px;
